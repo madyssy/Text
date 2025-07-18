@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quotes>
-  <quote>Test 1</quote>
-  <quote>Test 2</quote>
+  <quote text="Test 1"/>
+  <quote text="Test 2"/>
+  <quote text="Test 3"/>
 </quotes>
