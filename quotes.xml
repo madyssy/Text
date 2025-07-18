@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<quotes>
-  <quote><![CDATA[Test 1]]></quote>
-  <quote><![CDATA[Test 2]]></quote>
-</quotes>
+<root>
+  <item>Test 1</item>
+  <item>Test 2</item>
+  <item>Test 3</item>
+</root>
